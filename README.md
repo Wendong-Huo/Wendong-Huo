@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wendong Huo (Daniel)
+# 👋 Hi, I'm Wendong Huo
 
 🎓 PhD Candidate in Solid Mechanics  
 🏫 Dalian University of Technology, China  
