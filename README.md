@@ -34,7 +34,7 @@ I am currently extending these interests to micro-/nano-systems, multifunctional
 Python, MATLAB, C#, C++, Fortran
 
 **Numerical Methods**  
-Finite Element Analysis (FEA), isogeometric analysis, PDE-constrained optimization, topology/shape/size/layout modeling and design, conformal mapping, surrogate modeling
+FEM, BEM, IGA, PDE-constrained optimization, topology/shape/size/layout modeling and design, conformal mapping, surrogate modeling
 
 **Software & Tools**  
 ABAQUS, COMSOL, ANSYS, Rhino/Grasshopper, LAMMPS
