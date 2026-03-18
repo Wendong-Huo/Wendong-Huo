@@ -11,7 +11,7 @@ I work in computational mechanics and structural design, with research interests
 
 My previous work focused on the explicit design of complex shell structures, where I combined the Moving Morphable Components (MMC) method with computational conformal mapping and related geometric techniques to handle optimization problems on complex curved surfaces.
 
-I am currently extending these interests toward micro-/nano-structured systems, multifunctional metamaterials, and AI-enabled computational design, to develop mechanics-guided design frameworks for advanced material and structural systems.
+I am currently extending these interests to micro-/nano-systems, multifunctional metamaterials, and AI-enabled computational design, with the goal of developing mechanics- and geometry-guided design frameworks for advanced material and structural systems.
 
 ---
 
