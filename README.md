@@ -1,72 +1,69 @@
-# 👋 Hi, I'm Wendong Huo (Be careful! Here is some temp AI-generated content.)
+# 👋 Hi, I'm Wendong Huo
 
-🎓 PhD Candidate in Solid Mechanics  
-🏫 Dalian University of Technology, China  
-🔍 Research Focus: Shell Structures | Structural Optimization | Morphological Design  
-📅 Graduation: 2025 | Seeking Postdoc Opportunities (from mid-2025)
+🔬 Postdoctoral Researcher in Mechanical Engineering  
+🏫 The University of Hong Kong
 
 ---
 
-## 🔬 About Me
+## 🔍 About Me
 
-I’m a researcher in structural mechanics, with a particular interest in the **explicit design of complex shell structures**. My work integrates **computational geometry** and **optimization methods** to control and enhance the performance of thin-walled structures.
+I work in computational mechanics and structural design, with research interests spanning structural optimization, micro-nano mechanics, thin-walled structures, shell mechanics, metamaterials, and computational geometry.
 
-Currently, I focus on combining the **Moving Morphable Components (MMC) method** with **computational conformal mapping** to design expressive, efficient shell topographies. I aim to bridge **mechanics**, **morphology**, and **computation** in structural design.
+My previous work focused on the explicit design of complex shell structures, where I combined the Moving Morphable Components (MMC) method with computational conformal mapping and related geometric techniques to handle optimization problems on complex curved surfaces.
 
----
-
-## 🛠 Core Skills
-
-- **Programming & Tools**: Python, MATLAB, C++, Rhino/Grasshopper, Gmsh
-- **Numerical Methods**: FEA, PDE-based optimization, conformal mapping
-- **Software**: ABAQUS, ANSYS, COMSOL, custom MMC platforms
-- **Key Topics**:  
-  ✅ Topology & shape optimization  
-  ✅ Shell kinematics & force-driven design  
-  ✅ Morphogenetic shell structures  
+I am currently extending these interests toward micro-/nano-structured systems, multifunctional metamaterials, and AI-enabled computational design, to develop mechanics-guided design frameworks for advanced material and structural systems.
 
 ---
 
-## 🧪 Featured Research Projects
+## 🧪 Research Interests
 
-- **🌐 MMC-based Shell Morphology Design**  
-  Developed a design framework that uses conformal geometry and MMC for generating efficient shell surfaces with improved stiffness.
+- Structural optimization and design
+- Deep elastic strain engineering for diamond semiconductors
+- Computational geometry for mechanics and computational mechanics for graphics
+- AI-assisted design in mechanics and materials
 
-- **🔧 Simultaneous Optimization of Shape and Stiffeners**  
-  Proposed a coupled method to optimize both global form and local reinforcement patterns in shell structures.
+- Shell and thin-walled structures
+- Stiffener and topography-based attachment design
+- Mechanics of metamaterials and multifunctional structures
 
-- **📐 Integration of Trimmed Surfaces in Isogeometric Analysis**  
-  Investigated the limitations of trimmed NURBS for shell modeling and developed an adaptive refinement scheme.
+---
+
+## 🛠 Technical Skills
+
+**Programming & Computing**  
+Python, MATLAB, C++, Fortran
+
+**Numerical Methods**  
+Finite Element Analysis (FEA), isogeometric analysis, PDE-constrained optimization, topology/shape/size/layout modeling and design, conformal mapping, surrogate modeling
+
+**Software & Tools**  
+ABAQUS, COMSOL, ANSYS, Rhino/Grasshopper, LAMMPS
 
 ---
 
 ## 📝 Publications & Thesis
-
-- _Huo, W._, et al. "Explicit Shell Morphology Design Using MMC and Conformal Mapping." (Manuscript in preparation)  
-- Doctoral Thesis (2025): *Explicitly Designing Complex Surface Shell Structures*
-
 📚 [Google Scholar](#) | [ResearchGate](#) (links optional)
 
 ---
 
-## 🤝 Looking for Collaborations
+## 🤝 Collaboration
 
-I’m currently looking for postdoctoral positions or collaborations in:
+I am open to academic collaboration in areas related to, but not limited to:
 
-- **Computational structural mechanics**  
-- **Form-finding and topology optimization**  
-- **Flexible and lightweight structures**  
-- **Geometry-informed mechanical design**
+- computational structural mechanics
+- geometry-informed mechanical design
+- structural and topology optimization  
+- shell and thin-walled structures
+- flexible and lightweight structures
+- metamaterials and multifunctional design  
+- AI for mechanics and materials design
 
----
 
 ## 📬 Contact
 
-- Email: wendonghuo@dlut.edu.cn  
-- GitHub: [@daniel-huo](https://github.com/your_username)  
-- Location: Dalian, China  
+- Email: huowd@hku.hk, huowd.cmech@gmail.com
+- GitHub: [@daniel-huo](https://github.com/your_username)
 - Languages: Chinese 🇨🇳 | English 🇬🇧
-
 ---
 
 _Thanks for visiting my GitHub! Feel free to explore my repositories or reach out if you're interested in collaborating._  
