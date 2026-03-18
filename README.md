@@ -31,7 +31,7 @@ I am currently extending these interests to micro-/nano-systems, multifunctional
 ## 🛠 Technical Skills
 
 **Programming & Computing**  
-Python, MATLAB, C++, Fortran
+Python, MATLAB, C#, C++, Fortran
 
 **Numerical Methods**  
 Finite Element Analysis (FEA), isogeometric analysis, PDE-constrained optimization, topology/shape/size/layout modeling and design, conformal mapping, surrogate modeling
