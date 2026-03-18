@@ -42,7 +42,7 @@ ABAQUS, OptiStruct, ANSYS, COMSOL, Rhino/Grasshopper, LAMMPS
 ---
 
 ## 📝 Publications & Thesis
-📚 [Google Scholar]([#](https://scholar.google.com/citations?user=1q1nLY8AAAAJ&hl=en&oi=ao)) | [ResearchGate](#) (links optional)
+📚 [Google Scholar](https://scholar.google.com/citations?user=1q1nLY8AAAAJ&hl=en&oi=ao) | [ResearchGate](https://scholar.google.com/citations?user=1q1nLY8AAAAJ&hl=en&oi=ao)
 
 ---
 
