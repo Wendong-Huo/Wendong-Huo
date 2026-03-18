@@ -37,7 +37,7 @@ Python, MATLAB, C#, C++, Fortran
 FEM, BEM, IGA, PDE-constrained optimization, topology/shape/size/layout modeling and design, conformal mapping, surrogate modeling
 
 **Software & Tools**  
-ABAQUS, COMSOL, ANSYS, Rhino/Grasshopper, LAMMPS
+ABAQUS, OptiStruct, ANSYS, COMSOL, Rhino/Grasshopper, LAMMPS
 
 ---
 
