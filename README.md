@@ -63,7 +63,7 @@ I am open to academic collaboration in areas related to, but not limited to:
 
 - Email: huowd@hku.hk, huowd.cmech@gmail.com
 - GitHub: [@Wendong-Huo](https://github.com/Wendong-Huo)
-- Languages: Chinese 🇨🇳 | English 🇬🇧
+- Languages: Chinese | English
 ---
 
 _Thanks for visiting my GitHub! Feel free to explore my repositories or reach out if you're interested in collaborating._  
